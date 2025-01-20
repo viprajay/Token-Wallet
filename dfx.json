@@ -1,0 +1,9 @@
+{
+  "canisters": {
+    "icp_token_wallet": {
+      "type": "rust",
+      "candid": "src/icp_token_wallet.did",
+      "package": "src"
+    }
+  }
+}
